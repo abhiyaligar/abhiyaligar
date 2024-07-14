@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhiyaligar
-- 👀 I’m interested in Fornted Resource 
+- 👀 I’m interested in Frontend Resource 
 - 🌱 I’m currently learning JavaScript
 
 <!---
